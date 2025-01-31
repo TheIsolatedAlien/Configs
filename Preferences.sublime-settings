@@ -44,7 +44,8 @@
 		{"selector": "text.html, text.xml",},// "characters": "<"},
 		{"selector": "punctuation.accessor", "rhs_empty": true,},
 	],
-	"ignored_packages":
+	/*
+"ignored_packages":
 	[
 		"ActionScript",
 		"AppleScript",
@@ -79,6 +80,7 @@
 		"Rust",
 		"Scala",
 		"Vintage",
-	],
+	], 
+*/
 	"index_files": true,
 }
